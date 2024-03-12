@@ -1,0 +1,7 @@
+0 Pooh
+1 Kiwi
+2 Vader
+3 Cube
+4 Mario
+5 Elephant
+6 Mug
